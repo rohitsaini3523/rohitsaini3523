@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [github.com/rohitsaini3523](github.com/rohitsaini3523)
 
