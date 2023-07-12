@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit SAini</h1>
+<h1 align="center">Hi 👋, I'm Rohit Saini</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 
