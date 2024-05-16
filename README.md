@@ -10,5 +10,5 @@
 
 - 📫 How to reach me **rohitsaini3523@gmail.com**
 
-- 📄 Know about my experiences [Click Here!](https://drive.google.com/file/d/1p_V1iVnFY5FBPxmANb87Og3Yal5PxTNK/view?usp=sharing)
+- 📄 Know about my experiences [Click Here!](https://rohitsaini3523.github.io)
 
